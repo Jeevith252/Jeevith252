@@ -40,7 +40,7 @@
 Name: Jeevith Kampa
 Education: 3rd Year Data Science Engineering Student
 Institute: Alva's Institute of Engineering & Technology
-Focus: Full Stack Development + Problem Solving
+Focus: Frontend Development + Problem Solving + Data Analytics
 ```
 
 - 💡 Passionate about building impactful projects  
@@ -65,7 +65,7 @@ Focus: Full Stack Development + Problem Solving
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,figma,linux,opencv,nvidia" />
+<img src="https://skillicons.dev/icons?i=git,figma,linux,nvidia,opencv" />
 
 </div>
 
