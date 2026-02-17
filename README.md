@@ -33,7 +33,7 @@
 <!-- ================= ABOUT ================= -->
 <h2 align="center">👀About Me</h2>
 
-<img align="right" width="250" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_user_personalization&w=740&q=80"/>
+<img align="right" width="250" src="https://i.pinimg.com/originals/3d/80/64/3d8064758e54ec662e076b6ca54aa90e.gif"/>
 
 ```yaml
 Name: Jeevith Kampa
