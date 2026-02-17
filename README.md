@@ -78,7 +78,7 @@ Focus: Frontend Development + Problem Solving + Data Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevith252&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Jeevith252&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
