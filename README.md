@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="Github.jpg" width="100%" />
+<img src="github.jpeg" width="100%" />
 
 <h1>Hi 👋 I'm Jeevith Kampa</h1>
 <h3>🚀 Data science Engineer | Problem Solver | Tech Explorer</h3>
