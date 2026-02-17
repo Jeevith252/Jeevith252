@@ -65,7 +65,7 @@ Focus: Full Stack Development + Problem Solving
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,figma,linux,opencv,nvidia" />
+<img src="https://skillicons.dev/icons?i=git,figma,linux,opencv,nvidia" />
 
 </div>
 
