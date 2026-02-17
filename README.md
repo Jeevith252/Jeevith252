@@ -3,15 +3,15 @@
 
 <img src="github.jpeg" width="100%" />
 
-<h1>Hi 👋 I'm Jeevith Kampa</h1>
-<h3>🚀 Data science Engineer | Problem Solver | Tech Explorer</h3>
+<h1>Hi!!👋🏼 I'm Jeevith Kampa</h1>
+<h3> Data science Engineer | Problem Solver | Tech Explorer</h3>
 
 </div>
 
 ---
 
 <!-- ================= SOCIALS ================= -->
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🔗Connect With Me</h2>
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 ---
 
 <!-- ================= ABOUT ================= -->
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👀About Me</h2>
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -56,13 +56,13 @@ Focus: Full Stack Development + Problem Solving
 <div align="center">
 
 ### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 ### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,django" />
 
 ### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
 ### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,opencv,nvidia" />
@@ -76,8 +76,8 @@ Focus: Full Stack Development + Problem Solving
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=natashaa224&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevith252&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Jeevith252&theme=radical&hide_border=true" />
 
 <br/><br/>
 
