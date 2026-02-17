@@ -33,7 +33,7 @@
 <!-- ================= ABOUT ================= -->
 <h2 align="center">👀About Me</h2>
 
-<img align="right" width="250" src="https://miro.medium.com/1*mr7WXw8tgpMhqugKP2WhrA.gif"/>
+<img align="right" width="250" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 
 ```yaml
 Name: Jeevith Kampa
