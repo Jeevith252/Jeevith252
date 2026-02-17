@@ -2,7 +2,7 @@
 <div align="center" >
 <img align="center" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 
-<h1>Hi!!👋🏼 I'm Jeevith Kampa</h1>
+<h1>Hi!!👋🏼 I'm Jeevith K</h1>
 <h3> Data science Engineer | Problem Solver | Tech Explorer</h3>
 
 </div>
@@ -40,7 +40,6 @@ src="https://i.pinimg.com/originals/3d/80/64/3d8064758e54ec662e076b6ca54aa90e.gi
 />
 
 ```yaml
-Name: Jeevith Kampa
 Education: 3rd Year Data Science Engineering Student
 Institute: Alva's Institute of Engineering & Technology
 Focus: Frontend Development + Problem Solving + Data Analytics
@@ -80,7 +79,6 @@ Focus: Frontend Development + Problem Solving + Data Analytics
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevith252&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Jeevith252&theme=radical&hide_border=true" />
 
 <br/><br/>
 
