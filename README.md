@@ -84,7 +84,7 @@ Focus: Frontend Development + Problem Solving + Data Analytics
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&theme=react-dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevith252&theme=react-dark&hide_border=true" />
 
 </div>
 
