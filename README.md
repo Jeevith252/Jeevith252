@@ -1,7 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-
-<img src="github.jpeg" width="100%" />
+<img align="center" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 
 <h1>Hi!!👋🏼 I'm Jeevith Kampa</h1>
 <h3> Data science Engineer | Problem Solver | Tech Explorer</h3>
