@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-<img align="center" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" style="border-radius: 20;"/>
+<img align="center" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" style="border-radius: 50px;"/>
 
 <h1>Hi!!👋🏼 I'm Jeevith Kampa</h1>
 <h3> Data science Engineer | Problem Solver | Tech Explorer</h3>
@@ -37,7 +37,7 @@
 align="right"
 width="300" 
 src="https://i.pinimg.com/originals/3d/80/64/3d8064758e54ec662e076b6ca54aa90e.gif"
-style="border-radius: 20;"
+style="border-radius: 50px;"
 />
 
 ```yaml
