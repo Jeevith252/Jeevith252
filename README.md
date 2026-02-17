@@ -65,7 +65,7 @@ Focus: Frontend Development + Problem Solving + Data Analytics
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,figma,linux,opencv,vscode" />
+<img src="https://skillicons.dev/icons?i=git,figma,linux,opencv,vscode,aurdino" />
 
 </div>
 
