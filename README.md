@@ -55,10 +55,10 @@ Focus: Frontend Development + Problem Solving + Data Analytics
 <div align="center">
 
 ### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,django" />
 
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
