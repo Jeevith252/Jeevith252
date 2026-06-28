@@ -37,13 +37,13 @@ src="https://i.pinimg.com/originals/3d/80/64/3d8064758e54ec662e076b6ca54aa90e.gi
 />
 
 ```yaml
-Education: 3rd Year Data Science Engineering Student
+Education: Final Year Data Science Engineering Student
 Institute: Alva's Institute of Engineering & Technology
-Focus: Frontend Development + Problem Solving + Data Analytics
+Focus: Data Analytics + Machine Learning + Problem Solving  
 ```
 
 - 💡 Passionate about building impactful projects  
-- 🧠 Strong interest in Python & Backend Systems  
+- 🧠 Strong interest in Data Analysis And Machine Learning  
 - 📚 Constantly learning new technologies  
 - 🔥 Active in Competitive Programming  
 
