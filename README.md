@@ -55,7 +55,7 @@ Focus: Data Analytics + Machine Learning + Problem Solving
 <div align="center">
 
 ### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
 
 ### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,django" />
