@@ -72,18 +72,11 @@ Focus: Data Analytics + Machine Learning + Problem Solving
 
 <!-- ================= STATS ================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Jeevith252&theme=radical&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeevith252&theme=radical&hide_border=true"/>
 <br/><br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevith252&theme=react-dark&hide_border=true" />
-
 </div>
-
----
 
 <!-- ================= QUOTE ================= -->
 <h2 align="center">✨ Developer Motto</h2>
